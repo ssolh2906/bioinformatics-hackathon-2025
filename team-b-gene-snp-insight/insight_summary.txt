@@ -1,0 +1,35 @@
+TP53 Insight Summary (as of 2025-11-24)
+===========================================================
+Entity: TP53 (tumor protein p53) — Gene ID: 7157 (NCBI)
+
+Functional role
+- Tumor suppressor transcription factor that responds to cellular stress to regulate target genes, inducing cell cycle arrest, apoptosis, senescence, DNA repair, and metabolic changes.
+- Genomic location: 17p13.1; RefSeq status REVIEWED; multiple transcript variants and isoforms reported.
+
+Disease associations
+- Germline and somatic TP53 mutations are linked to a wide range of human cancers.
+- Hereditary cancer syndrome: Li-Fraumeni syndrome (LFS). Professional guidelines (ACMG) recommend reporting pathogenic/likely pathogenic TP53 variants on clinical sequencing.
+
+Known variants (examples; not exhaustive)
+1) NM_000546.6:c.524G>A (p.Arg175His, R175H)
+   - Type: Missense, DNA-binding domain hotspot
+   - ClinVar: Pathogenic; associated with Li-Fraumeni syndrome and hereditary cancer predisposition
+   - Reference: ClinVar VCV000012374
+
+2) NM_000546.6:c.743G>A (p.Arg248Gln, R248Q)
+   - Type: Missense, DNA-binding domain hotspot
+   - ClinVar: Pathogenic; reported in Li-Fraumeni syndrome and multiple cancers
+   - Reference: ClinVar VCV000012356
+
+3) NM_000546.6:c.672+1G>A
+   - Type: Splice donor variant
+   - ClinVar: Pathogenic; associated with Li-Fraumeni syndrome
+   - Reference: ClinVar RCV000200333
+
+Primary sources (NCBI)
+- NCBI Gene: TP53 (Gene ID: 7157) — summary, genomic context, associated conditions, and professional guidelines.
+- NCBI ClinVar: Variant records VCV000012374 (p.R175H), VCV000012356 (p.R248Q), and RCV000200333 (c.672+1G>A).
+
+Notes
+- This is a concise, non-exhaustive summary intended for quick reference.
+- For clinical use, consult the full NCBI Gene and ClinVar entries and relevant practice guidelines.
